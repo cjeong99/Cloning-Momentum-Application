@@ -1,7 +1,5 @@
 # Cloning Momentum Application
 
-Cloning Momentum Application
-
 - Momentum (Chrome Extension): https://chrome.google.com/webstore/detail/momentum/laookkfknpbbblfpciffpaejjkokdgca?hl=en
 
 - [x] HTML5
